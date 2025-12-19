@@ -1,1 +1,5 @@
-this is master branch
+<<<<<<< HEAD
+this is master branch and this is the messge in the file created in feature_1 branch
+=======
+this is the messge in the file created in feature_1 branch
+>>>>>>> feature_1
